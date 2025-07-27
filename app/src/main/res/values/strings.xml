@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Girly</string>
+    <string name="firebase_database_url">https://woman-safety-application-d824a-default-rtdb.firebaseio.com/</string>
+
+    <string name="heart_rate_format">Heart Rate: %d bpm</string>
+    <string name="watch_battery_format">Watch Battery: %d%%</string>
+    <string name="phone_battery_format">Phone Battery: %d%%</string>
+    <!-- Preference Titles -->
+
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+
+</resources>

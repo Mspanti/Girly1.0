@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 🌒 Primary Colors -->
+    <color name="colorPrimary">#FF69B4</color> <!-- hot_pink -->
+    <color name="colorPrimaryVariant">#D03171</color> <!-- pink_variant -->
+    <color name="colorAccent" tools:ignore="MissingDefaultResource">#FF80AB</color>
+    <color name="colorOnPrimary">#000000</color>
+
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorSecondaryVariant">#FF80AB</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- 🎨 Extended Pink Palette -->
+    <color name="deep_pink">#FF1493</color>
+    <color name="pink_variant">#D03171</color>
+    <color name="hot_pink">#FF69B4</color>
+    <color name="soft_pink">#FF80AB</color>
+    <color name="pink_dark">#C2185B</color>
+    <color name="pink_light">#F48FB1</color>
+
+    <!-- 🖼 Background & Surfaces -->
+    <color name="colorBackground" tools:ignore="MissingDefaultResource">#121212</color> <!-- default dark background -->
+    <color name="dark_background" tools:ignore="MissingDefaultResource">#0D0D0D</color>
+    <color name="dark_card" tools:ignore="MissingDefaultResource">#1E1E1E</color>
+    <color name="gray_light" tools:ignore="MissingDefaultResource">#2A2A2A</color>
+
+    <!-- ⚙️ Functional Colors -->
+    <color name="sos_red">#FF3E3E</color>
+    <color name="green">#81C784</color>
+    <color name="orange">#FFB74D</color>
+
+    <!-- 📝 Text Colors -->
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="text_primary_dark">#000000</color>
+
+    <!-- 🔘 Navigation -->
+    <color name="nav_background">#121212</color>
+    <color name="nav_text_selected">#FF69B4</color>
+    <color name="nav_text_unselected">#AAAAAA</color>
+
+</resources>

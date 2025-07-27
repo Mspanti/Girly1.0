@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 🌈 Primary Palette -->
+    <color name="colorPrimary">#E91E63</color> <!-- Material Deep Pink -->
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorPrimaryVariant">#D03171</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- 🌈 Secondary Palette -->
+    <color name="colorSecondary">#FF4081</color>
+    <color name="colorSecondaryVariant">#FF69B4</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="purple_500">#FF6200EE</color>
+    <!-- 🎨 Extended Pink Shades -->
+    <color name="deep_pink">#FF1493</color>
+    <color name="hot_pink">#FF69B4</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="pink_500">#E91E63</color>
+    <color name="pink_dark">#C71585</color>        <!-- Missing -->
+    <color name="pink_variant">#D03171</color>     <!-- Missing -->
+    <color name="soft_pink">#FFA6C9</color>        <!-- Missing -->
+    <color name="pink_light">#FFB6C1</color>
+
+    <!-- 🎨 Blue Shades -->
+    <color name="light_blue">#ADD8E6</color>
+    <color name="sky_blue">#87CEEB</color>
+    <color name="blue_500">#2196F3</color>
+
+    <!-- 🧱 Neutrals -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#333333</color>
+    <color name="soft_white">#FFF9FB</color>
+    <color name="gray_light">#D3D3D3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- ⚠️ Functional & Accent -->
+    <color name="sos_red">#FF3E3E</color>
+    <color name="holo_red_dark">#FF4444</color>
+    <color name="holo_green_dark">#33CC33</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="icon_tint">#6200EE</color>
+
+    <!-- 📱 Text Colors -->
+    <color name="text_primary_light">#000000</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+
+    <!-- 🧭 Navigation -->
+    <color name="nav_icon_selected">@color/deep_pink</color>
+    <color name="nav_icon_unselected">@color/gray</color>
+    <color name="nav_text_selected">@color/deep_pink</color>
+    <color name="nav_text_unselected">@color/black</color>
+    <color name="nav_background">@color/white</color>
+    <color name="overlay_background">#80000000</color> <color name="start_button_color">#4CAF50</color> <color name="stop_button_color">#F44336</color>  <color name="record_start_color">#FF9800</color> <color name="record_stop_color">#E91E63</color>
+
+    <color name="splash_background_color">#FFFFFF</color>
+</resources>

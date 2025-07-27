@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#FFF3E0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/reportInput"
+        android:hint="Describe the issue anonymously..."
+        android:minHeight="200dp"
+        android:gravity="top"
+        android:background="@drawable/edittext_bg"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/sendReportButton"
+        android:text="Send Report"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/deep_pink"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

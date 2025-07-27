@@ -1,0 +1,20 @@
+<!-- res/drawable/ic_eye_closed.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Eye shape -->
+    <path
+        android:fillColor="#757575"
+        android:pathData="M12,4.5c-4.5,0 -8.2,2.9 -10,7 1.8,4.1 5.5,7 10,7s8.2,-2.9 10,-7c-1.8,-4.1 -5.5,-7 -10,-7zM12,16c-2.2,0 -4,-1.8 -4,-4s1.8,-4 4,-4 4,1.8 4,4 -1.8,4 -4,4z" />
+
+    <!-- Strike-through line -->
+    <path
+        android:strokeColor="#757575"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M3,3 L21,21" />
+
+</vector>

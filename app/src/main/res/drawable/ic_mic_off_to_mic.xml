@@ -1,0 +1,6 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_mic_off">
+    <target
+        android:name="path"
+        android:animation="@animator/mic_off_to_mic_animator" />
+</animated-vector>

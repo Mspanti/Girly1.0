@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base Application Theme -->
+    <style name="Theme.Girly" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- No ActionBar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Color Scheme -->
+        <item name="colorPrimary">@color/deep_pink</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/pink_light</item>
+
+        <item name="colorSecondary">@color/light_blue</item>
+        <item name="colorOnSecondary">@color/dark_gray</item>
+        <item name="colorSecondaryContainer">@color/sky_blue</item>
+
+        <!-- Background Colors -->
+        <item name="android:windowBackground">@color/soft_white</item>
+        <item name="colorSurface">@color/soft_white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:colorBackground">@color/soft_white</item>
+
+        <!-- Status Bar Customization -->
+        <item name="android:statusBarColor">@color/soft_white</item>
+        <item name="android:navigationBarColor">@color/soft_white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+
+        <!-- Typography -->
+        <item name="textAppearanceHeadlineLarge">@style/TextAppearance.Material3.DisplayMedium</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.Material3.BodyMedium</item>
+        <item name="textAppearanceLabelMedium">@style/TextAppearance.Material3.LabelMedium</item>
+
+        <!-- CardView Style for 3D effect -->
+        <item name="cardViewStyle">@style/Widget.Material3.CardView.Elevated</item>
+
+        <!-- Ripple -->
+        <item name="colorControlHighlight">@color/pink_light</item>
+
+        <!-- Buttons -->
+        <item name="materialButtonStyle">@style/PinkButtonStyle</item>
+        <item name="floatingActionButtonStyle">@style/PinkFabStyle</item>
+    </style>
+</resources>

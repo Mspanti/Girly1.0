@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Solid color -->
+    <gradient
+        android:startColor="#FF69B4"
+        android:endColor="#FFB6C1"
+        android:angle="90"/>
+
+    <!-- All 4 corners rounded in single tag -->
+    <corners
+        android:topLeftRadius="16dp"
+        android:topRightRadius="16dp"
+        android:bottomLeftRadius="16dp"
+        android:bottomRightRadius="16dp" />
+
+</shape>

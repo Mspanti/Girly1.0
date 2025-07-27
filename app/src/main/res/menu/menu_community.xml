@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_filter"
+        android:title="Filter"
+        android:icon="@drawable/ic_filter"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_filter_pending"
+                android:title="Pending" />
+            <item
+                android:id="@+id/action_filter_responded"
+                android:title="Responded" />
+            <item
+                android:id="@+id/action_filter_resolved"
+                android:title="Resolved" />
+            <item
+                android:id="@+id/action_filter_nearby"
+                android:title="Nearby" />
+            <item
+                android:id="@+id/action_filter_all"
+                android:title="All" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_sort"
+        android:title="Sort"
+        android:icon="@drawable/ic_sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/action_sort_distance"
+                android:title="Distance" />
+            <item
+                android:id="@+id/action_sort_time"
+                android:title="Time" />
+        </menu>
+    </item>
+</menu>

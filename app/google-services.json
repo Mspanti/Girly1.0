@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "978524122724",
+    "firebase_url": "https://woman-safety-application-d824a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "woman-safety-application-d824a",
+    "storage_bucket": "woman-safety-application-d824a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978524122724:android:590b6011ab6f9ee2127971",
+        "android_client_info": {
+          "package_name": "com.pant.girly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGxFYaT8Pe9578B-cIgYKwNHMJ4MMYrKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
